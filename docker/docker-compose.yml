@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  medical-inventory-service:
+   build: ../medical-inventory-service
+   ports:
+     - 4000
+
+  

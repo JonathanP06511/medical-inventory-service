@@ -1,0 +1,20 @@
+{
+  "name": "medical-inventory-service",
+  "version": "1.0.0",
+  "description": "**Medical Inventory Management Microservice with GraphQL**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "medical-inventory-service": "file:",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
