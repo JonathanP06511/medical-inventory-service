@@ -14,7 +14,7 @@ This project is an Information API built with Node.js, Express, and GraphQL. It 
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone <https://github.com/JonathanP06511/medical-inventory-service.git>
+    git clone https://github.com/JonathanP06511/medical-inventory-service.git
     ```
 
 2. Install the dependencies:
